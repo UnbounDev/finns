@@ -1,0 +1,33 @@
+{
+  "name": "finns",
+  "version": "1.0.0",
+  "description": "Website for Finnley O'Rourke",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "aws-sdk": "^2.1.24",
+    "ghost": "git://github.com/UnbounDev/Ghost.git#stable",
+    "when": "^3.7.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unboundev/finns"
+  },
+  "keywords": [
+    "finns",
+    "awesome",
+    "dude",
+    "where's",
+    "my",
+    "car"
+  ],
+  "author": "Finnley O'Rourke",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/unboundev/finns/issues"
+  },
+  "homepage": "https://github.com/unboundev/finns"
+}

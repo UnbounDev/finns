@@ -1,0 +1,4 @@
+
+#ignore local db files
+ghost.db
+ghost.db-journal
